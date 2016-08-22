@@ -1,0 +1,6 @@
+E:\Unity\projects\test2\Assets\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Unity\projects\test2\Assets\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Unity\projects\test2\Assets\ClassLibrary1\ClassLibrary1\bin\Debug\UnityEngine.dll
+E:\Unity\projects\test2\Assets\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity\projects\test2\Assets\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Unity\projects\test2\Assets\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

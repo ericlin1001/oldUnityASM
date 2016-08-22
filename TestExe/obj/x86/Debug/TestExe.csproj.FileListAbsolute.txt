@@ -1,0 +1,8 @@
+E:\Unity\projects\TestExe\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Unity\projects\TestExe\bin\Debug\TestExe.exe
+E:\Unity\projects\TestExe\bin\Debug\TestExe.pdb
+E:\Unity\projects\TestExe\bin\Debug\Assembly-CSharp.dll
+E:\Unity\projects\TestExe\bin\Debug\UnityEngine.dll
+E:\Unity\projects\TestExe\bin\Debug\Assembly-CSharp.pdb
+E:\Unity\projects\TestExe\obj\x86\Debug\TestExe.exe
+E:\Unity\projects\TestExe\obj\x86\Debug\TestExe.pdb

@@ -1,0 +1,20 @@
+﻿//this is comment.
+/*
+ this is a lock comment
+
+*/
+mapName="EricMaze";
+startTag=2;
+targetTag=3;
+numRows=8;
+numCols=8;
+mapData=[
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 1 0 0 0 1 1
+0 1 0 1 0 1 0 1
+0 1 0 0 1 0 0 1
+0 0 1 0 0 0 1 0
+0 0 0 1 0 1 0 0
+0 0 0 0 1 0 0 0
+];

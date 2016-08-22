@@ -1,0 +1,9 @@
+﻿<size=18><b>BallAndBrick</b></size>
+
+Version 1.0
+
+Author:Eric.
+
+Contact Email:<i>463222898@qq.com</i>
+
+<size=13><i>find some bugs,or any good ideas to polish it,send me a email!</i></size>

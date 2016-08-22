@@ -1,0 +1,10 @@
+C:\EDisk\Unity\projects\brickAndBall\Temp\bin\Debug\Assembly-CSharp.dll
+C:\EDisk\Unity\projects\brickAndBall\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\EDisk\Unity\projects\brickAndBall\Temp\bin\Debug\UnityEditor.dll
+C:\EDisk\Unity\projects\brickAndBall\Temp\bin\Debug\UnityEngine.dll
+C:\EDisk\Unity\projects\brickAndBall\Temp\bin\Debug\Mono.Cecil.dll
+C:\EDisk\Unity\projects\brickAndBall\Temp\bin\Debug\nunit.framework.dll
+C:\EDisk\Unity\projects\brickAndBall\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\EDisk\Unity\projects\brickAndBall\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\EDisk\Unity\projects\brickAndBall\obj\Debug\Assembly-CSharp.dll
+C:\EDisk\Unity\projects\brickAndBall\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,15 @@
+﻿//this is comment.
+numRows=23;
+numCols=4;
+text="hello world";
+mapData0=[ 4 5 6 3 4 5];
+mapData=
+[ 4 5 6
+   3 4 5
+   ];
+mapData1=
+[
+3 4 5
+3 4 5
+1 2 4
+];

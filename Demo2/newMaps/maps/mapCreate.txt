@@ -1,0 +1,61 @@
+﻿//this is a comment!
+/*
+This is a block comment!
+Next line!
+*/
+/*
+
+/*
+This is an example about the format of a map file.
+Please just put one map's data in one file!
+Format:
+This file shoud contains and only contains the following variables:
+mapName,startTag,targetTag,numRows,numCols,mapData.
+The function of every variables is explained the following.
+
+Attention:After each variable assignment,you MUST append an ';' to indicates the end of instruction!.
+
+Author:Eric
+*/
+
+//this is the name  of map.
+mapName="mapDemo";
+
+ //the position of startTag in mapData is the intial position of player .
+//in mapData,startTag should contains and only contains once.
+startTag=2;
+
+//the position of targetTag in mapData is the intial position of targets.
+//in mapData,targetTag can be contained more than once,which means multi-target for player.
+targetTag=3;
+
+//
+numRows=7 ;
+
+numCols=7 ;
+
+//mapData is acutall a one-dimension array,and will be convert to two-dimension map
+//base on numRows and numCols. And you should ensure that numRows*numCols is the length of mapData.
+mapData=[
+1 1 1 1 1 1 1
+1 0 0 0 0 3 1
+1 0 1 1 1 0 1
+1 0 0 0 1 0 1
+1 1 1 0 1 0 1
+1 2 0 0 1 0 1
+1 1 1 1 1 1 1
+];
+
+/*
+This file will create a map like:
+************
+*        % *
+*   ****   *
+*      *   *
+****   *   *
+* $    *   *
+************
+where $ is the player
+% is the target
+*/
+

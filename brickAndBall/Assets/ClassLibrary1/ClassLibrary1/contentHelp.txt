@@ -1,0 +1,2 @@
+﻿1.Touch screen to throw up the ball.
+2.Swing the phone to move the paddle,left or right.

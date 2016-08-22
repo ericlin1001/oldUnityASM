@@ -1,0 +1,86 @@
+Initialize engine version: 4.1.0f4 (88f3bc4c76f9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1047]
+    Renderer: ATI Mobility Radeon HD 5470
+    Vendor:   ATI
+    VRAM:     1014 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\EDisk\Unity\projects\brickAndBall\Output\PC\ballAndBrick_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\EDisk\Unity\projects\brickAndBall\Output\PC\ballAndBrick_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\EDisk\Unity\projects\brickAndBall\Output\PC\ballAndBrick_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\EDisk\Unity\projects\brickAndBall\Output\PC\ballAndBrick_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.182 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+click Play
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 1.217483 ms (FindLiveObjects: 0.030283 ms CreateObjectMapping: 0.027203 ms MarkObjects: 0.345432 ms  DeleteObjects: 0.034389 ms)
+
+spawn a ballball(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ball(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ball (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ball(Clone) (UnityEngine.MeshRenderer)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+using ball 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+has load level index=1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+eat a food
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+eat a food
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+die
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+spawn a ballball(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ball(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ball (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ball(Clone) (UnityEngine.MeshRenderer)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+using ball 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+click Pause
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
